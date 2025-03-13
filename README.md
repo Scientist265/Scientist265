@@ -1,7 +1,7 @@
 ## Hi, I'm Ibraheem ✨
 
 # 💫 About Me:
-🧑🏻‍💻 Flutter Developer.<br>📚 Computer Engineering graduate from Obafemi Awolowo University. (https://www.instagram.com/dev.scientist/)<br>📝 I provide solution to real life problem with critical thinking.<br>♟️ I play Chess to improve my creativity.
+🧑🏻‍💻 Flutter Developer.<br>📚 Computer Engineering graduate from Obafemi Awolowo University. (https://www.instagram.com/dev.scientist/)<br>📝 Available for collaboration open source or private.<br>♟️ I play Chess to improve my creativity.
 
 
 ## 🌐 Socials:
