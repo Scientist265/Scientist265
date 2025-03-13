@@ -1,11 +1,9 @@
 ## Hi, I'm Ibraheem ✨
 
-📚 Computer Engineering graduate from Obafemi Awolowo University (https://www.instagram.com/dev.scientist/)
 🧑🏻‍💻 Flutter Developer.
+📚 Computer Engineering graduate from Obafemi Awolowo University. (https://www.instagram.com/dev.scientist/)
 📝 I provide solution to real life problem with critical thinking.
 ♟️ I play Chess to improve my creativity.
-# 💫 About Me:
-I'm currently working on Fa
 
 
 ## 🌐 Socials:
